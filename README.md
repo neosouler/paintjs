@@ -1,3 +1,3 @@
 # paintjs
 
-first commit!
+thanks to NomadCoders!
